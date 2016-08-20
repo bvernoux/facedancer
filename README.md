@@ -7,5 +7,7 @@ http://goodfet.sourceforge.net/hardware/facedancer21
 
 ![FaceDancer21+ PCB OSHPark](facedancer21plus_OSHPark.jpg)
 
+![FaceDancer21+ Built Fully Working](faceddancer21+_fully_working.jpg)
+
 See also PCB on OSH Park
 https://oshpark.com/shared_projects/DaynyAWY
